@@ -3,7 +3,6 @@
 [![Release](https://img.shields.io/github/v/release/taylorivanoff/apple-podcasts-windows)](https://github.com/taylorivanoff/apple-podcasts-windows/releases)
 [![Downloads](https://img.shields.io/github/downloads/taylorivanoff/apple-podcasts-windows/total)](https://github.com/taylorivanoff/apple-podcasts-windows/releases)
 [![License](https://img.shields.io/github/license/taylorivanoff/apple-podcasts-windows)](LICENSE)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/taylorivanoff)
 
 Apple Podcasts desktop app for Windows. Access [Apple Podcasts](https://podcasts.apple.com/).
 
