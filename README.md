@@ -1,13 +1,11 @@
-# Apple Podcasts for Windows — Unofficial Desktop App
+# Apple Podcasts for Windows
 
 [![Release](https://img.shields.io/github/v/release/taylorivanoff/apple-podcasts-windows)](https://github.com/taylorivanoff/apple-podcasts-windows/releases)
 [![Downloads](https://img.shields.io/github/downloads/taylorivanoff/apple-podcasts-windows/total)](https://github.com/taylorivanoff/apple-podcasts-windows/releases)
 [![License](https://img.shields.io/github/license/taylorivanoff/apple-podcasts-windows)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/taylorivanoff)
 
-Unofficial **Apple Podcasts for Windows** desktop app. Access [Apple Podcasts](https://podcasts.apple.com/) in a dedicated Electron client with system tray, auto-updates, and shared Apple ID authentication.
-
-Listen to Apple Podcasts on Windows with a dedicated desktop app — tray-friendly, auto-updating, and sign-in with your Apple ID.
+Apple Podcasts desktop app for Windows. Access [Apple Podcasts](https://podcasts.apple.com/).
 
 ## Features
 
@@ -41,7 +39,7 @@ bun run release
 
 ## Keywords
 
-Apple Podcasts for Windows, Apple Podcasts desktop app, podcasts.apple.com Windows, unofficial Apple Podcasts PC client
+Apple Podcasts for Windows, Apple Podcasts desktop app, podcasts.apple.com Windows, Apple Podcasts PC client
 
 ## Contributing
 
