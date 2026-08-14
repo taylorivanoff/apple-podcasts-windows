@@ -1,6 +1,6 @@
 [package]
 name = "apple-podcasts"
-version = "2.0.1"
+version = "2.0.2"
 description = "Apple Podcasts for Windows (Tauri)"
 authors = ["Taylor Ivanoff"]
 edition = "2021"
