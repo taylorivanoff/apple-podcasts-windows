@@ -8,11 +8,11 @@ Apple Podcasts desktop app for Windows. Loads [podcasts.apple.com](https://podca
 
 ## Features
 
-- **System tray** — close hides to tray; left-click toggles the window
-- **Safari user-agent** — Apple web session compatibility
-- **Cookie persistence** — stay signed in across restarts
-- **Start with Windows** — installer registers a login item
-- **Deep link** — `apple-podcasts://` protocol handler
+- **System tray** - close hides to tray; left-click toggles the window
+- **Safari user-agent** - Apple web session compatibility
+- **Cookie persistence** - stay signed in across restarts
+- **Start with Windows** - installer registers a login item
+- **Deep link** - `apple-podcasts://` protocol handler
 
 ## Installation
 
